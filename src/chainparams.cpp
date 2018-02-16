@@ -114,7 +114,7 @@ public:
         nTargetTimespan = 10 * 60; // ALQO: 1 day
         nTargetSpacing = 1 * 60;  // ALQO: 1 minute
         nLastPOWBlock = 200;
-        nMaturity = 110;
+        nMaturity = 10;
         nMasternodeCountDrift = 20;
 		nMasternodeColleteralLimxDev = 10000; //Params().MasternodeColleteralLimxDev()
         nModifierUpdateBlock = 1; // we use the version 2 for dmd
